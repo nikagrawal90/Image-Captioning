@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-// Nikhil Agrawal
+# Nikhil Agrawal
 
 #Import Necessary Libraries
 from os import listdir
